@@ -3,8 +3,8 @@
 
 *   ##    Frameworks and language used - Maven, SpringBoot, java
 *   ##    Data flow
-    ##   1. Controller - UrlHitController
-    ##   2. Services - url-hit-counter
+    ##   1. Controller - user
+    ##   2. Services - User management System
     ##   3. Repository - Github
     ##   4. DataBase Design - XML
 
